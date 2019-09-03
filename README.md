@@ -26,3 +26,4 @@ On sait depuis longtemps que travailler avec du texte lisible et contenant du se
  C4
  C5
  C7
+ C6
