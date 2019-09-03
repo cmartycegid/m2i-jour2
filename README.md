@@ -20,3 +20,5 @@ On sait depuis longtemps que travailler avec du texte lisible et contenant du se
  sites qui n'en sont encore qu'à leur phase de construction. Plusieurs versions sont apparues 
  avec le temps, parfois par accident, souvent intentionnellement (histoire d'y rajouter de 
  petits clins d'oeil, voire des phrases embarassantes).
+ 
+ C1
